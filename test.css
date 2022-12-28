@@ -1,0 +1,61 @@
+body{
+    
+}
+
+.container{
+   text-align: center;
+   margin-top: 100px;
+   margin-right: 600px;
+    
+}
+.profile{
+    margin-left: 300px;
+   
+   width: 130px;
+   height: 170px;
+   display: inline-block;
+    
+}
+.profile2{
+    
+    width: 130px;
+    height: 170px;
+    display: inline-block;
+    margin-bottom: 10px; 
+}
+.name{
+    margin-left: 40px;
+}
+.xpicture{
+    height: 100px;
+    width: 100px;
+ margin-left: 10px;
+ border-radius:50px ;
+ 
+}
+.account{
+    margin-left: 10px;
+}
+.form{
+    width: 340px;
+    margin-left: 1000px;
+    text-align: center;
+    
+    
+}
+.form input{
+    width: 100%;
+    margin-bottom: 15px;
+    padding: 15px;
+
+}
+.login{
+    width: 100%;
+    margin-bottom: 10px;
+
+}
+.create{
+    margin-left: 1100px;
+    margin-top: 20px;
+}
+
